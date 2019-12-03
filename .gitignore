@@ -1,0 +1,7 @@
+.idea/*
+.DS_Store
+*.pyc
+data/*
+output/*
+checkpoint/*
+graph/*
